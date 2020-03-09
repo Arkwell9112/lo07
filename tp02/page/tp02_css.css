@@ -1,0 +1,73 @@
+h1
+{
+    text-align: center;
+    color: #000080;
+    margin-bottom: 20px 0px;
+}
+
+h2
+{
+    color: red;
+}
+a:visited
+{
+    color: orange;
+}
+a:hover
+{
+    color:greenyellow;
+}
+
+ol
+{
+    color:chocolate;
+}
+.cs
+{
+    color:crimson;
+}
+.tm
+{
+    color:blueviolet;
+}
+li{
+    color:cornflowerblue;
+}
+#nom
+{
+   text-decoration: underline;
+}
+ol li
+{
+    list-style-type: lower-greek;
+}
+
+.gras
+{
+    color:dodgerblue;
+    font-weight: bold;
+}
+#matiere
+{
+    background-color: salmon;
+    /*display: none;*/
+}
+td
+{
+    background-color: #ffd178;
+
+}
+table,th,td
+{
+    border-collapse:collapse;
+    border: 1px solid black;
+    padding: 5px;
+}
+td
+{
+    text-align: center;
+}
+th
+{
+    color: #4b89ff;
+}
