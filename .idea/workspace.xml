@@ -74,7 +74,7 @@
       <workItem from="1583741585435" duration="568000" />
       <workItem from="1584342929239" duration="4087000" />
       <workItem from="1584348678825" duration="2283000" />
-      <workItem from="1584944738812" duration="832000" />
+      <workItem from="1584944738812" duration="5570000" />
     </task>
     <servers />
   </component>
@@ -94,6 +94,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DirDiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1583742116491" />
+    <state x="604" y="337" key="NewPhpFileDialog" timestamp="1584945938137">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="337" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1584945938137" />
     <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1584944741787">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
