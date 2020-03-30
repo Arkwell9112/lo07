@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>PHP Script with GET Form</title>
+    <link rel="stylesheet" href="../tp03/css/bootstrap.css">
+</head>
+<body class="container">
+    <div class="panel panel-success">
+        <div class="panel-heading">
+            Formulaire utilisant la méthode GET.
+        </div>
+        <div class="panel-body">
+            <form method="get" action="tp05_inscription_get_action.php">
+                <div class="form-group">
+                    <label for="nom">Nom ?</label>
+                    <input type="text" class="form-control" name="nom" id="nom" placeholder="Donnez votre nom">
+                    </br>
+
+
+                    <label for="prenom">Prénom ?</label>
+                    <input type="text" class="form-control" id="prenom" name="prenom" placeholder="Donnez votre prénom">
+                    </br>
+
+
+                    <label for="mail">Email ?</label>
+                    <input type="email" class="form-control" id="mail" name="mail" placeholder="Donnez votre Email">
+                    </br>
+
+                    <label for="date">Date de naissance</label>
+                    <input type="date" class="form-control" id="date" name="date">
+                </div>
+
+                <label>Sexe ?</label>
+                </br>
+                <div class="radio-inline">
+                    <label><input type="radio" name="sexe" value="Masculin">Masculin</label>
+                </div>
+                <div class="radio-inline">
+                    <label><input type="radio" value="Féminin" name="sexe">Féminin</label>
+                </div>
+                </br></br>
+                <div class="form-group">
+                    <label for="etu">Origine des étudiants</label>
+                    <select class="form-control" id="etu" name="etu">
+                        <option value="TC de l'UTT">TC de l'UTT</option>
+                        <option value="DUT INFO">DUT INFO</option>
+                        <option value="GE2I">DUT GE2I</option>
+                        <option value="DUT STID">DUT STID</option>
+                        <option value="DUT autre">DUT autre</option>
+                        <option value="Prépa scientifique">Prépa scientifique</option>
+                        <option value="Prépa B/L">Prépa B/L</option>
+                    </select></div>
+                </br>
+
+                <label>Validations ?</label>
+
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="ST07" id="ST07" name="stage[]">
+                    <label class="form-check-label" for="ST07">
+                        ST07
+                    </label>
+                </div>
+
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="ST09" id="ST09" name="stage[]">
+                    <label class="form-check-label" for="ST09">
+                        ST09
+                    </label>
+                </div>
+
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="ST10" id="ST10" name="stage[]" disabled>
+                    <label class="form-check-label" for="ST10">
+                        ST10 désactivé
+                    </label>
+                </div>
+
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="SE" id="SE" name="stage[]">
+                    <label class="form-check-label" for="SE">
+                        SE
+                    </label>
+                </div>
+                </br>
+                <label>Modules ?</label>
+
+                <select multiple class=form-control name="mods[]">
+                    <option disabled selected>CS</option>
+                    <option value="GL02">GL02</option>
+                    <option value="NF16">NF16</option>
+                    <option value="NF20">NF20</option>
+                    <option disabled selected>TM</option>
+                    <option value="IF09">IF09</option>
+                    <option value="IF14">IF14</option>
+                    <option value="LO02">LO02</option>
+                    <option value="NF21">NF21</option>
+                </select>
+                </br>
+                <div class="form-group">
+                    <label for="infos">Informations complémentaires</label>
+                    <textarea name="infos" class="form-control" id="infos" rows="3"></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Envoyer le formulaire</button>
+                </br></br></br>
+
+            </form>
+        </div>
+    </div>
+</body>
+</html>
