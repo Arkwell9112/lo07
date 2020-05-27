@@ -9,7 +9,7 @@ class PDOManager
     private const passwddistant = "v2rsUsd1";
 
     private const dsnlocal = "mysql:host=localhost;port=3308;dbname=lo07_2020";
-    private const dsndistant = "mysql:host=localhost;dbname=lo07_2020";
+    private const dsndistant = "mysql:host=localhost;dbname=bergeedo";
 
     public static function getPDO(bool $local): PDO
     {
