@@ -39,21 +39,21 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/TP11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TP12" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\wamp64\www\lo07" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\lo07\TP12" />
       <recent name="C:\wamp64\www\lo07\TP11" />
       <recent name="C:\wamp64\www\lo07\TP08" />
       <recent name="C:\wamp64\www\lo07\TP07" />
       <recent name="C:\wamp64\www\lo07\TP06" />
-      <recent name="C:\wamp64\www\lo07\TP05" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\lo07" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -94,6 +94,7 @@
       <workItem from="1589292610117" duration="3117000" />
       <workItem from="1589781436088" duration="6413000" />
       <workItem from="1589810701761" duration="1471000" />
+      <workItem from="1590558058117" duration="11847000" />
     </task>
     <servers />
   </component>
@@ -121,22 +122,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DirDiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1583742116491" />
-    <state x="595" y="228" key="NewPhpClassDialog" timestamp="1587974218973">
+    <state x="595" y="228" key="NewPhpClassDialog" timestamp="1590560397938">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="595" y="228" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1587974218973" />
-    <state x="604" y="337" key="NewPhpFileDialog" timestamp="1589781628602">
+    <state x="595" y="228" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1590560397938" />
+    <state x="604" y="337" key="NewPhpFileDialog" timestamp="1590565875949">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="604" y="337" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1589781628602" />
+    <state x="604" y="337" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1590565875949" />
     <state x="277" y="56" key="SettingsEditor" timestamp="1586153072574">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586153072574" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1589810701472">
+    <state x="466" y="205" key="com.intellij.ide.util.TipDialog" timestamp="1590558059813">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589810701472" />
+    <state x="466" y="205" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590558059813" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1590563311862">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1590563311862" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586155321595">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
