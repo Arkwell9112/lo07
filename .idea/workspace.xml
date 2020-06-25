@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="89e0dfe9-a4f7-4400-b1c8-7f5d17996378" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP12/PDOManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/TP12/PDOManager.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/TP12" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
@@ -97,6 +96,11 @@
       <workItem from="1589810701761" duration="1471000" />
       <workItem from="1590558058117" duration="11847000" />
       <workItem from="1590570825968" duration="23000" />
+      <workItem from="1590648679000" duration="338000" />
+      <workItem from="1592374868294" duration="408000" />
+      <workItem from="1592748001216" duration="51000" />
+      <workItem from="1592893463587" duration="100000" />
+      <workItem from="1592893670343" duration="24000" />
     </task>
     <servers />
   </component>
@@ -104,10 +108,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="72" key="#Deployment" timestamp="1583741545523">
+    <state x="361" y="72" key="#Deployment" timestamp="1592893533320">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="72" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1583741545523" />
+    <state x="361" y="72" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1592893533320" />
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586153019352">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -116,30 +120,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="98" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1587970217415" />
-    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583741684872">
+    <state x="326" y="136" key="FileChooserDialogImpl" timestamp="1592893691699">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583741684872" />
-    <state x="93" y="93" width="1350" height="638" key="DirDiffDialog" timestamp="1583742116491">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="93" y="93" width="1350" height="638" key="DirDiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1583742116491" />
+    <state x="326" y="136" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592893691699" />
     <state x="595" y="228" key="NewPhpClassDialog" timestamp="1590560397938">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="595" y="228" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1590560397938" />
-    <state x="604" y="337" key="NewPhpFileDialog" timestamp="1590565875949">
+    <state x="604" y="337" key="NewPhpFileDialog" timestamp="1592375181953">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="604" y="337" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1590565875949" />
+    <state x="604" y="337" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1592375181953" />
     <state x="277" y="56" key="SettingsEditor" timestamp="1586153072574">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586153072574" />
-    <state x="466" y="205" key="com.intellij.ide.util.TipDialog" timestamp="1590570830348">
+    <state x="466" y="205" key="com.intellij.ide.util.TipDialog" timestamp="1592893670160">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="466" y="205" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590570830348" />
+    <state x="466" y="205" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592893670160" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1590563311862">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
